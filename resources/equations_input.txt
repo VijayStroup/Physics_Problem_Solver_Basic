@@ -1,0 +1,40 @@
+grav_potential_energy 1 2
+kin_energy 5 20
+grav_potential_energy 5 10
+grav_potential_energy 6.6 20.35
+work_energy 10 5 0
+grav_potential_energy 4 5 6
+fake_formula 20 10
+kin_energy 10 2
+kin_energy 2 0 1
+kin_energy 0 200
+grav_potential_energy 10 20.293
+grav_potential_energy 0 2
+dummy_formula 3.23 20.2
+nsl_force 20 30 10
+kin_energy 30 50
+grav_potential_energy 10 20 30 40 50
+grav_potential_energy 5.5 50
+grav_potential_energy 10 20
+grav_potential_energy 20 20 20
+mans_not_hot 10 20 30
+quick_maths 1 2
+work_energy 10 20.2378 30
+kin_energy 204.24 29.2
+kin_energy 5.348 10.2399
+kin_energy 20.2 1.2
+grav_potential_energy 920.28 294.249
+work_energy 20.238 1
+kin_energy 20 20 20 20
+py_formula 3000.2382 0
+circular_motion 10.23 30.230 5.283
+work_energy 20 30 90
+grav_potential_energy 2498.2489 24894.24
+grav_potential_energy 10000 0
+sublime_text 1 2 3 4 5
+kin_energy 90 20
+vijay_stroup 3.21 5.43
+work_energy 0 20 0
+grav_potential_energy 1 1
+kin_energy 1.2 2.1
+work_energy 20 30 20 10
