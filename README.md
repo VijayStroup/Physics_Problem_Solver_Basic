@@ -24,7 +24,7 @@
 >If the equation name and number of arguments is correct, call the equation with
 >the arguments and print the answer like this:
 >
->physics_equation_name(arg1, arg2 ...) = answer
+>physics_equation_name(arg1, arg2 ...) = answer | proposed project by father
 
 A script that will use basic physics formulas to solve work, gravitional, and kinetic energy problems when given certain information such as height, force, mass, ect.
 Pretty in-dept project for my level as I needed help on parts of the program.  It took some days, but it is finally done.
