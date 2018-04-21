@@ -1,6 +1,30 @@
 # Physics Problem Solver Basic
 ### A script that will use basic physics formulas to solve equations.
-#### Project Description: Generate a random number between 1 and 10 (including 1 and 10). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right. (Hint: remember to use the user input lessons from the very first exercise) | practicepython.org
+#### Project Description:
+>The input is a file containing lines of the following form:
+> 
+>   equation_name arg1 ...
+>
+>For example:
+>
+>   energy 5.4 3.7 99
+>   something 7 280.01
+>   energy 88.94 73 21.2
+>   whizbang 83.34 14.34 356.43  139593.7801
+>   something .001 25
+>
+>You must pass the name of the input file on the command-line.  Do not hard-code
+>the input file name in the source code.
+>
+>You must validate the name of the physics equation and the number of arguments.
+>If the name of the equation is invalid, write an error message and skip to the
+>next line.  If the equation name is valid, but has the wrong number of
+>arguments, write an error message and skip to the next line.
+>
+>If the equation name and number of arguments is correct, call the equation with
+>the arguments and print the answer like this:
+>
+>physics_equation_name(arg1, arg2 ...) = answer
 
 A script that will use basic physics formulas to solve work, gravitional, and kinetic energy problems when given certain information such as height, force, mass, ect.
 Pretty in-dept project for my level as I needed help on parts of the program.  It took some days, but it is finally done.
